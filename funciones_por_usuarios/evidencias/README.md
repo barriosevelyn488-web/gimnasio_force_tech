@@ -2,3 +2,6 @@
 
 # 1. funcion_simple
 ![alt text](image.png)
+
+# 2. funciones no deterministicas
+![alt text](image-1.png)
