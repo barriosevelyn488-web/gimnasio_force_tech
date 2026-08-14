@@ -5,3 +5,6 @@
 
 # 2. funciones no deterministicas
 ![alt text](image-1.png)
+
+# 3. funcion acceso db
+![alt text](image-2.png)
