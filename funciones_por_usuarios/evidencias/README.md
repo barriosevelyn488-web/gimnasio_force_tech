@@ -17,3 +17,6 @@
 
 # 6. funciones manejo de errores 
 ![alt text](image-5.png)
+
+# 7. declarar comision entrenador
+![alt text](image-6.png)
