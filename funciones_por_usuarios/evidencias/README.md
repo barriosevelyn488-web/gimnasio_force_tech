@@ -11,3 +11,6 @@
 
 # 4. funcion con condicion
 ![alt text](image-3.png)
+
+# 5. funciones con bucles
+![alt text](image-4.png)
