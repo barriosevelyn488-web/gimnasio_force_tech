@@ -9,3 +9,6 @@
 # 3. prmisos tabla
 ![alt text](image-2.png)
 
+# 4. privilegios columnas
+![alt text](image-3.png)
+
