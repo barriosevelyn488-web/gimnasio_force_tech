@@ -2,3 +2,6 @@
 
 # 1 loop
 ![alt text](image.png)
+
+# 2. while
+![alt text](image-1.png)
