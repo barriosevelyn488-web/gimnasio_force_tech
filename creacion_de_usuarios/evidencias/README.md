@@ -12,3 +12,6 @@
 # 4. privilegios columnas
 ![alt text](image-3.png)
 
+# 5. privilegios
+![alt text](image-4.png)
+
