@@ -1,0 +1,5 @@
+USE gimnasio_force_tech;
+
+SELECT s.Nombres, spe.PLAN_ENTRENAMIENTO_ID
+FROM SOCIOS s
+LEFT JOIN SOCIO_PLAN_ENTRENAMIENTO spe ON s.Socio_ID = spe.Socio_ID;

@@ -12,3 +12,10 @@
 # 4. inserccion.sql
 ![alt text](image-3.png)
 
+# 5. loop
+![alt text](image-4.png)
+
+# 6. out
+![alt text](image-5.png)
+
+
