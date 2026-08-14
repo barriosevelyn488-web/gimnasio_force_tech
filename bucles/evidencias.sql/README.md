@@ -12,3 +12,5 @@
 # 4. case
 ![alt text](image-3.png)
 
+# 5.errores
+![alt text](image-4.png)
