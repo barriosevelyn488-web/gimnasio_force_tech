@@ -14,3 +14,6 @@
 
 # 5. funciones con bucles
 ![alt text](image-4.png)
+
+# 6. funciones manejo de errores 
+![alt text](image-5.png)
