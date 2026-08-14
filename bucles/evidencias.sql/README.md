@@ -14,3 +14,8 @@
 
 # 5.errores
 ![alt text](image-4.png)
+
+# 6.transacciones
+![alt text](image-5.png)
+
+
