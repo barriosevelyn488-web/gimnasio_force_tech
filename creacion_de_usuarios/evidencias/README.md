@@ -3,4 +3,5 @@
 # 1. crear_usuario
 ![alt text](image.png)
 
-# 2. 
+# 2. signar permisos 
+![alt text](image-1.png)
