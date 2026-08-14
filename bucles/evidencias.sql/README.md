@@ -9,3 +9,6 @@
 # 3.repeat
 ![alt text](image-2.png)
 
+# 4. case
+![alt text](image-3.png)
+
