@@ -6,3 +6,6 @@
 # 2. IN
 ![alt text](image-1.png)
 
+# 3. inner_join
+![alt text](image-2.png)
+
