@@ -8,3 +8,6 @@
 
 # 3. funcion acceso db
 ![alt text](image-2.png)
+
+# 4. funcion con condicion
+![alt text](image-3.png)
