@@ -1,0 +1,7 @@
+USE gimnasio_force_tech;
+
+SELECT s.Nombres, s.Apellidos, p.Plan_Entrenamiento, sed.Nombre_Sede
+FROM SOCIOS s
+INNER JOIN SOCIO_PLAN_ENTRENAMIENTO spe ON s.Socio_ID = spe.Socio_ID
+INNER JOIN PLANES_ENTRENAMIENTO p ON spe.PLAN_ENTRENAMIENTO_ID = p.PLAN_ENTRENAMIENTO_ID
+INNER JOIN SEDES sed ON spe.SEDE_ID = sed.SEDE_ID;
