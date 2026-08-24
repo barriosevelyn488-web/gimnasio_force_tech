@@ -9,7 +9,7 @@ CREATE PROCEDURE sp_registrar_socio_con_control(
     IN p_telefono VARCHAR(20)
 )
 BEGIN
-    -- Declaración de Handler para capturar excepciones SQL (ej. duplicidad de ID)
+    -- Declaración de Handler para capturar excepciones SQL 
     DECLARE EXIT HANDLER FOR SQLEXCEPTION
     BEGIN
         ROLLBACK;
